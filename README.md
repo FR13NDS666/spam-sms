@@ -1,4 +1,4 @@
 # spam-sms
 instalisasi:
- pip install bs4
- pip install requests
+ \npip install bs4\n
+ pip install requests\n
