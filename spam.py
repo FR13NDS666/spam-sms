@@ -72,6 +72,7 @@ class spam:
 	def jumlah(self):
 		self.jlm = input("[+] Jumlah : ")
 		if self.jlm == "":
+			print()
 			self.jumlah()
 		else:
 			self.mulai()
