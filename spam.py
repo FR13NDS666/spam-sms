@@ -72,11 +72,11 @@ class spam:
 	def jumlah(self):
 		self.jlm = input("[+] Jumlah : ")
 		if self.jlm == "":
-			print()
 			self.jumlah()
 		else:
 			self.mulai()
 	def mulai(self):
+		print()
 		for i in range(1,int(self.jlm)+1):
 			r = requests.post("https://mypoin.id/register/request-otp",headers=self.head,data=
 			{
