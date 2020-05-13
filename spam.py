@@ -1,5 +1,5 @@
-# Author : Ridho Gaming
-# Github : github.com/ridhoNoob
+# Author : FR13NDS
+# Github : github.com/FR13NDS666
 # Script : Spam otp mypoin
 
 import re,sys,time,json,os
@@ -89,5 +89,5 @@ class spam:
 				time.sleep(1)
 			else:
 				print ("[*] Delay \033[94m1 \033[0mmenit \033[91m........\033[0m")
-				time.sleep(60)
+				time.sleep(0)
 spam()
