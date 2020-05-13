@@ -1,7 +1,7 @@
-# Author : Ridho Gaming
-# Github : github.com/ridhoNoob
+# Author : FR13NDS
+# Github : github.com/FR13NDS666
 # Script : Spam otp mypoin
-
+ ------------------------------------------------------------------
 import re,sys,time,json,os
 
 try:
@@ -86,8 +86,8 @@ class spam:
 			js = json.loads(r.text)
 			if "status" in js.keys():
 				print (f"[\033[92m{i}\033[0m] sukses terkirim ke : \033[95m{self.no}\033[0m")
-				time.sleep(1)
+				time.sleep(0)
 			else:
 				print ("[*] Delay \033[94m1 \033[0mmenit \033[91m........\033[0m")
-				time.sleep(60)
+				time.sleep(10)
 spam()
