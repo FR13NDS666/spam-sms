@@ -1,5 +1,5 @@
-# Author : Ridho Gaming
-# Github : github.com/ridhoNoob
+# Author : FR13NDS
+# Github : github.com/FR13NDS666
 # Script : Spam otp mypoin
 
 import re,sys,time,json,os
