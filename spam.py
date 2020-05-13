@@ -1,3 +1,11 @@
+█████████
+█▄█████▄█
+█▼▼▼▼▼
+█ -_--__-_-__-_-_         
+   -_-_-_-_-_-_-_ Spam SMS
+█▲▲▲▲▲
+█████████
+ ██ ██ ██ 
 # Author : FR13NDS
 # Github : github.com/FR13NDS666
 # Script : Spam otp mypoin
